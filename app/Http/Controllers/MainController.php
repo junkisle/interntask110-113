@@ -47,6 +47,8 @@ class MainController extends Controller
             'background-screening-companies' => view('pages.blog.blog_109'),
             'how-to-do-a-background-check-on-a-person' => view('pages.blog.blog_110'),
             'automated-background-check' => view('pages.blog.blog_111'),
+            'background-checks-for-employment' => view('pages.blog.blog_112'),
+            'how-can-you-check-your-criminal-background' => view('pages.blog.blog_113'),
             // default => back(),
             default => abort(404),
         };
