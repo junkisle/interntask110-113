@@ -108,22 +108,22 @@ How Can You Check Your Criminal Background? A Step-by-Step Guide - Avvanz Global
 
     <ul>
         <li>
-            <span class="fw-bolder">Job Applications</span> -- Many UK employers require a background check before hiring, particularly in sectors like finance, healthcare, education, and security.
+            <span class="fw-bolder">Job Applications</span> – Many UK employers require a background check before hiring, particularly in sectors like finance, healthcare, education, and security.
         </li>
         <li>
-            <span class="fw-bolder">Visa & Immigration Purposes</span> -- Some countries, including the USA, Canada, and Australia, request a police clearance certificate before granting a visa.
+            <span class="fw-bolder">Visa & Immigration Purposes</span> – Some countries, including the USA, Canada, and Australia, request a police clearance certificate before granting a visa.
         </li>
         <li>
-            <span class="fw-bolder">Personal Peace of Mind</span> -- If you want to verify your own record, ensure it's accurate, or prepare for future applications, checking your <span class="fw-bolder">criminal background</span> is a smart decision.
+            <span class="fw-bolder">Personal Peace of Mind</span> – If you want to verify your own record, ensure it's accurate, or prepare for future applications, checking your <span class="fw-bolder">criminal background</span> is a smart decision.
         </li>
         <li>
-            <span class="fw-bolder">Housing Applications</span> -- Some landlords may request a background check before renting out a property.
+            <span class="fw-bolder">Housing Applications</span> – Some landlords may request a background check before renting out a property.
         </li>
         <li>
-            <span class="fw-bolder">Adoption & Foster Care</span> -- Those applying to adopt or foster a child are often required to undergo a criminal background check.
+            <span class="fw-bolder">Adoption & Foster Care</span> – Those applying to adopt or foster a child are often required to undergo a criminal background check.
         </li>
         <li>
-            <span class="fw-bolder">Legal Purposes</span> -- If you're involved in a legal case, a lawyer may advise you to obtain your criminal record.
+            <span class="fw-bolder">Legal Purposes</span> – If you're involved in a legal case, a lawyer may advise you to obtain your criminal record.
         </li>
     </ul>
 
@@ -157,16 +157,16 @@ How Can You Check Your Criminal Background? A Step-by-Step Guide - Avvanz Global
 
     <ol>
         <li>
-            <span class="fw-bolder">Basic DBS Check</span> -- Shows only unspent convictions and cautions. This is the simplest check and can be requested by any individual for personal use.
+            <span class="fw-bolder">Basic DBS Check</span> – Shows only unspent convictions and cautions. This is the simplest check and can be requested by any individual for personal use.
         </li>
         <li>
-            <span class="fw-bolder">Standard DBS Check</span> -- Includes both spent and unspent convictions, along with cautions, reprimands, and warnings. This is commonly requested by employers in regulated industries.
+            <span class="fw-bolder">Standard DBS Check</span> – Includes both spent and unspent convictions, along with cautions, reprimands, and warnings. This is commonly requested by employers in regulated industries.
         </li>
         <li>
-            <span class="fw-bolder">Enhanced DBS Check</span> -- Provides all the information in a Standard DBS check but also includes any additional relevant information held by the police. This check is typically required for roles that involve working with children or vulnerable adults.
+            <span class="fw-bolder">Enhanced DBS Check</span> – Provides all the information in a Standard DBS check but also includes any additional relevant information held by the police. This check is typically required for roles that involve working with children or vulnerable adults.
         </li>
         <li>
-            <span class="fw-bolder">Enhanced DBS Check with Barred Lists</span> -- Includes all of the above and checks whether an individual is on a barred list, preventing them from working with specific groups.
+            <span class="fw-bolder">Enhanced DBS Check with Barred Lists</span> – Includes all of the above and checks whether an individual is on a barred list, preventing them from working with specific groups.
         </li>
     </ol>
 
@@ -239,10 +239,10 @@ How Can You Check Your Criminal Background? A Step-by-Step Guide - Avvanz Global
 
     <ul>
         <li>
-            <span class="fw-bolder">Avvanz</span> -- A globally recognised background screening provider.
+            <span class="fw-bolder">Avvanz</span> – A globally recognised background screening provider.
         </li>
         <li>
-            <span class="fw-bolder">Private Investigators UK</span> -- Offers criminal checks for individuals and businesses.
+            <span class="fw-bolder">Private Investigators UK</span> – Offers criminal checks for individuals and businesses.
         </li>
     </ul>
 

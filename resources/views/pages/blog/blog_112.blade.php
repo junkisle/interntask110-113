@@ -220,7 +220,7 @@ Background Checks for Employment: Verify Candidates with Confidence - Avvanz Glo
     </ul>
 
     <p>
-        For roles requiring specific qualifications---such as <span class="fw-bolder">doctors, lawyers, accountants, or engineers</span>---this check is particularly critical.
+        For roles requiring specific qualifications–such as <span class="fw-bolder">doctors, lawyers, accountants, or engineers</span>–this check is particularly critical.
     </p>
 
     <h3 class="fw-bolder">
